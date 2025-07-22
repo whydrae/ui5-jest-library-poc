@@ -1,0 +1,11 @@
+{
+  "name": "ui5-jest-library-poc",
+  "version": "1.0.0",
+  "author": "Ilia, Klopkov",
+  "license": "Apache-2.0",
+  "description": "PoC for using ui5-jest-environment with a reusable library",
+  "workspaces": [
+    "packages/mylib",
+    "packages/myapp"
+  ]
+}

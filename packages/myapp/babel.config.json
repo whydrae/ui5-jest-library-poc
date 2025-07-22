@@ -1,0 +1,15 @@
+{
+	"presets": [
+		[
+			"@babel/preset-env",
+			{
+				"targets": {
+					"browsers": "defaults"
+				}
+			}
+		],
+		"transform-ui5",
+		"@babel/preset-typescript"
+	],
+	"sourceMaps": true
+}
